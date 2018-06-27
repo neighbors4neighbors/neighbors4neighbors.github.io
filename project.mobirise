@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Neighbors4Neighbors",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,13 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 15,
     "versionPublish": "4.7.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
